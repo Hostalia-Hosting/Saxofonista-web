@@ -14,7 +14,7 @@
         <?php include "common-php/localization/main.html"; ?>
         <!-- /COMMON-LOCALIZATION -->
 
-        <title>Preguntas, Disponibilidad y Precios | Saxofonista para bodas y eventos | SAXCAT</title>
+        <title>Preguntas, Disponibilidad y Precioss | Saxofonista para bodas y eventos | SAXCAT</title>
 
         <meta name="description" content="Saxofonista para bodas, contrata música en directo para tu boda. Disponible en Barcelona, Madrid, Costa Brava, Sitges y más">
         <meta name="keywords" content="saxo, saxofonista, contratar, bodas, música en directo, barcelona, costa brava">
