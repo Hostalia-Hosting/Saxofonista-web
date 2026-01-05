@@ -3,41 +3,41 @@
 	<url>
 		<loc>https://www.saxofonista.cat</loc>
 		<priority>1.00</priority>
-		<lastmod>2025-03-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxofonista.cat/videos.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxofonista.cat/fotos.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxofonista.cat/faqs.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-02-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxofonista.cat/eventos.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxofonista.cat/bodas.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxofonista.cat/about.php</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-02-03</lastmod>
+		<lastmod>2025-10-23</lastmod>
 	</url>
 	<url>
 		<loc>https://www.saxofonista.cat/404.php</loc>
 		<priority>0.50</priority>
-		<lastmod>2025-03-02</lastmod>
+		<lastmod>2025-10-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxofonista.cat/about.php</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-10-23</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxofonista.cat/bodas.php</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-10-23</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxofonista.cat/eventos.php</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-10-23</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxofonista.cat/faqs.php</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-10-29</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxofonista.cat/fotos.php</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-10-23</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxofonista.cat/videos.php</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-10-23</lastmod>
 	</url>
 </urlset>
