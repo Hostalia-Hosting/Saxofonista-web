@@ -3881,6 +3881,31 @@ GALLERY LLEGENDA EDIT ARNALD 04/04/2026
     transform: translateY(-5px);
 }
 
+/*----------------------------------------------
+VIDEOS LLEGENDA EDIT ARNALD 04/04/2026
+----------------------------------------------*/
+.video-caption {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.4;
+    padding: 10px;
+    border-radius: 0 0 8px 8px;
+}
+.video-caption strong {
+    color: #222;
+    display: block;
+    margin-bottom: 3px;
+}
+.video-figure {
+    margin-bottom: 25px;
+    overflow: hidden;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+.video-figure:hover {
+    transform: translateY(-5px);
+}
+
 /* #endregion Gallery */
 
 /*----------------------------------------------
