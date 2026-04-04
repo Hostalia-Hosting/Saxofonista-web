@@ -1,2 +1,6 @@
 RewriteEngine On
+
+# Aquesta línia fa que sitemap.xml executi el fitxer PHP
+RewriteRule ^sitemap\.xml$ generar-sitemap.php [L]
+
 ErrorDocument 404 /404.php
