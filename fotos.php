@@ -55,8 +55,8 @@
                                         <li class="breadcrumb-item active" aria-current="page">Saxofonista para Bodas</li>
                                     </ol>
                                 </nav>-->
-                                <h1 class="mb-0 title effect-static-text">Fotos de saxofonista en eventos</h1>
-                                <p>Fotos de los mejores saxofonistas para bodas y eventos, disponibles para contratación, en estilo moderno o jazz, actuando como solistas, junto al DJ en formato DJ SAXO y en grupo de música para aportar música en directo en tu boda o evento.</p>
+                                <h1 class="mb-0 title effect-static-text">Galería: El Saxofón en Vivo en los Mejores Eventos</h1>
+                                <p>Descubre la versatilidad de un <strong>saxofonista profesional para bodas y eventos</strong>, disponible para contratación en una amplia variedad de formatos adaptados a tu celebración. Desde la sofisticación del <strong>estilo jazz</strong> y el minimalismo del <strong>saxo solista</strong> para cócteles elegantes, hasta la energía desbordante del formato <strong>DJ & SAXO</strong> para fiestas inolvidables. Explora nuestra selección de fotos y déjate inspirar por la magia de la música en directo, ya sea actuando por libre o integrados en un grupo de música diseñado para hacer vibrar tu próximo evento.</p>
                             </div>
                         </div>
                     </div>

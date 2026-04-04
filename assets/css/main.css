@@ -3859,6 +3859,28 @@ form[data-steps="3"] .progressbar li {
     transition-property: opacity, transform;
 }
 
+/*----------------------------------------------
+GALLERY LLEGENDA EDIT ARNALD 04/04/2026
+----------------------------------------------*/
+
+.photo-caption {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.4;
+    padding: 5px 10px;
+}
+.photo-caption strong {
+    color: #333;
+    display: block; /* Opcional: posa el títol en una línia i la descripció a sota */
+}
+.gallery-figure {
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+}
+.gallery-figure:hover {
+    transform: translateY(-5px);
+}
+
 /* #endregion Gallery */
 
 /*----------------------------------------------
