@@ -32,7 +32,7 @@
         <?php include "common-php/header/es.html"; ?>
         <!-- /COMMON-HEADER -->
 
-        <!-- BANNER -->
+        <!-- HERO -->
         <section id="slider" class="hero p-0 odd featured">
             <div class="swiper-container no-slider animation slider-h-50 slider-h-auto">
                 <div class="swiper-wrapper">
@@ -64,7 +64,7 @@
                 </div>
             </div>
         </section>
-        <!-- /BANNER -->
+        <!-- /HERO -->
 
 
         <!-- WEDDING-CEREMONY -->
